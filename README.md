@@ -12,13 +12,8 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 
-![Mockup](doc/mockup/mockup.png)
 
 This React-based platform stands out as a unique second-hand bike ecommerce site, combining easy product discovery, detailed insights, and smooth shopping in an appealing and functional online environment. It guides users with a dynamic navigation bar and a welcoming Hero section to a select range of Dutch bikes and accessories. The site makes finding and buying pre-owned bicycles straightforward with an intuitive Product Search and detailed Product Pages, supported by a comprehensive FAQ, an engaging About page, and a direct Contact form. It invites users to engage by selling their bikes, and features a Generic Banner for news and a Footer for easy navigation, emphasizing transparency and trust with a Cookie Consent feature. Beyond being a shopping site, it's a community hub for Dutch cycling enthusiasts, promoting a more connected cycling community with every interaction.
-
-Live webpage [here](https://igordinuzzi.github.io/ecommerce-site-react/)
-
-Watch video [here](https://youtu.be/QtNMasooneU)
 
 # Features
 
@@ -29,13 +24,10 @@ This React component features adaptive navigation with comprehensive links for s
   
 - ## Footer: 
 The site's footer enhances user experience by offering social media links to Facebook, Twitter, and Instagram for community engagement, a clear navigation menu for easy access to essential pages like Home and Contact, and an email link for direct communication. It also promotes the site's mobile app with links to Google Play and the Apple App Store for on-the-go access. Styled with custom CSS and FontAwesome icons, this React component strengthens the brand's presence and commitment to accessibility and convenience.
-  ![Footer](doc/features/02_01_footer.jpg)
-  ![Footer mobile](doc/features/02_02_footer.jpg)
 
 - ## Favicon for easy recognition.
 The favicon is important in a webpage as it provides a recognizable visual identity in browser tabs, 
 enhancing brand visibility and user recognition, and it helps users quickly locate and return to the site.
-  ![Favicon](doc/features/03_favicon.jpg)
   
 - ## Landing page 
 This React application offers streamlined navigation with a fluid layout, guiding users from a welcoming Hero component to various sections like Products and About via a NavBar. It features a ProductList for browsing second-hand Dutch bikes and accessories, enhanced by a ProductSearch for refined exploration. Detailed product information is available through the ProductDetail component, including add-to-cart options. The interface promotes interactivity with notifications for cart updates and a Cart page summarizing purchases. Users can list their bikes for sale with the SellBikeForm, contributing to the cycling community. Informative sections provide insights into the platform's mission, with a GenericBanner for special announcements. The design is responsive across devices, with a Footer that offers social media links, app store downloads, and navigation, emphasizing the brand and community ethos. CookieConsent integration ensures user privacy, creating a comprehensive experience for Dutch bike enthusiasts.
@@ -362,29 +354,6 @@ The ecommerce website is developed with the following stack:
 
 This user flow and task flow together outline how a user interacts with the key features of the ecommerce website, from initial exploration to performing specific actions like adding a product to the cart.
 
-## Wireframes
-
-```css
-:root {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  --primary-color: #005354;
-  --hover-color: #1C756D;
-  --secondary-color: #E9FFB4;
-  --tertiary-color: #C18F72;
-  --accent-color: #ECDFD5;
-  --delete-color: #ff6b6b;
-  --text-color: #333;
-  --text-dark: #fefefe;
-  --background-light: #F9F4F2;
-  --font-size-xl: 2.5em; /* Slightly reduced for better proportion */
-  --font-size-l: 1.5em; /* Large but not overly dominant */
-  --font-size-m: 1em; /* Standard size for body text */
-  --font-size-price: 1em; /* Prominent for prices */
-  --font-size-s: 0.875em; /* Smaller for less important text */
-  --hover-secondary: #A46946;
-}
 
  
 ## Learning Outcomes
@@ -494,16 +463,11 @@ The website was deployed to GitHub Pages with the following steps:
 4. Click 'Save.'
 5. A live link will be displayed in a green banner when the deployment is successful.
 
-You can access the live website [here](https://igordinuzzi.github.io/ecommerce-site-react/).
-
 
 ## Credits
 
-- Design and Development: Igor Dinuzzi
+- Design and Development: Hardik Chaudhary
 - Content Creation: ChatGPT
-- Iconography: FontAwesome
-- Icons: The Noun Project
-- Images: Sourced from Unsplash and Freepik
 
 
 
